@@ -1,16 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+show-avatar: false
+image: /img/picture_of_me.jpg
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have recently completed my **Ph.D.** on May 2019 at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), advised by Dr. [Suvranu De](http://homepages.rpi.edu/~des/index.html). I am passionate about data science and currently seeking job oppotunities of **Data Analyst**, **Data Scienctist** or other related positions. Please feel free to check out my resume or contact me if you are interested! 
