@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 show-avatar: false
-image: /img/picture_of_me.jpg
+image: img/picture_of_me.jpg
 ---
 ![My picture](img/picture_of_me.jpg)
 
