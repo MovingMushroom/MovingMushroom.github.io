@@ -58,6 +58,7 @@ subtitle: Stay Tuned! My Skills Set Grows with Time!
 ### Others
 * Latex
 * Photoshop
+* CAD, _e.g._ NX, SolidWorks, Abaqus
 * Hands-on Experimental Skills _e.g._ Operation of 
   * Ultrasound Imaging Unit
   * Instron Material Testing System
