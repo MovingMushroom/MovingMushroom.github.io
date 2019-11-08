@@ -24,9 +24,9 @@ navbar-links:
   Experience: "Experience"
   Education: "Education"
   Projects: "Projects"
-  News: "News"
-  Publications: "Publications"
   Skills: "Skills"
+  Publications: "Publications"
+  News: "News"
   Contact: "Contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
