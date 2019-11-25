@@ -13,6 +13,10 @@ Impact Factor (IF): 2.247
 _Burns_(2017) 43(5)  
 Impact Factor (IF): 2.247
 
+### Burn-related Collagen Conformational Changes in ex vivo Porcine Skin using Raman Spectroscopy  
+**Ye, H.**, Rahul, Kruger, U., Wang, T., Shi, S. and De, S. _Scientific Reports (Accepted)_  
+Impact Factor (IF): 4.525
+
 ### [Ultrasound imaging-based identification of thermal damage in burnt tissue][3]  
 **Ye, H.**, Rahul, Dargar, S., Kruger, U. and De, S.   
 _14th US National Congress on Computational Mechanics (USNCCM14)_ (2017) Montreal, Canada  
@@ -27,10 +31,6 @@ Conference Proceedings
 Gallagher, S., **Ye, H.**, Makled, B., Parsey, C. Rahul, Norfleet, J., and De, S.    
 _Annual Conference and Exposition on Experimental and Applied Mechanics_ (2019) Reno, Nevada, USA  
 Conference Proceedings
-
-### Burn-related Collagen Conformational Changes in ex vivo Porcine Skin using Raman Spectroscopy  
-**Ye, H.**, Rahul, Kruger, U., Wang, T., Shi, S. and De, S.   
-_Under Review_
 
 ### Classification of Burn Severities with Raman Spectroscopy on ex vivo Porcine Skin  
 **Ye, H.**, Rahul, Kruger, U., Wang, T., Shi, S. and De, S.  
