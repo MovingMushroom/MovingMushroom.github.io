@@ -11,7 +11,7 @@ title: Projects
             <div class="row">
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="img/rpi.png" height="300px"/>
+                        <img src="/img/rpi.png" height="300px"/>
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
