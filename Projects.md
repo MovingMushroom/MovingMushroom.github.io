@@ -4,7 +4,8 @@ title: Projects
 ---
 
 ### Ph.D. Thesis: Mechanical and Morphological Alternations in Skin Tissue due to Thermal Injury
-<img src="/img/rpi.png" height="200px" class="center">
+<center> <img src="/img/rpi.png" height="200px">
+</center>
 
 Burns are some of the most common injuries in both civilian and combat scenarios. Prompt
 and proper treatments largely depend on an accurate diagnosis of burn depth.  However, a major
