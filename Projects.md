@@ -32,7 +32,7 @@ _Article Under Review_
 
 ### Differentiating between Real Skin and Man-made Skin
 <center> 
-  <img src="/img/Synthetic.tif" height="300px">
+  <img src="/img/Synthetic.jpg" height="300px">
 </center>
 
 How realistic are the man-made skins? Can they be proper substitues for real skins? This study demonstrates that there is a significant difference between real skin and man-made skins in terms of mechanical properties, using ANOVA and linear discriminat analysis (LDA).  
