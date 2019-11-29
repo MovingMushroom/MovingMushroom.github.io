@@ -3,6 +3,19 @@ layout: page
 title: News
 ---
 
+<html>
+   <body>
+      <div class="container">
+         <ul>
+            <li><img src="https://www.technicalkeeda.com/img/images/demo/1.jpg"></li>
+            <li><img src="https://www.technicalkeeda.com/img/images/demo/2.jpg"></li>
+            <li><img src="https://www.technicalkeeda.com/img/images/demo/3.jpg"></li>
+         </ul>
+      </div>
+   </body>
+</html>
+
+
 ### Hanglin's Defense and Graduation
 
 <div class="row">
