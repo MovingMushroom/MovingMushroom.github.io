@@ -3,27 +3,12 @@ layout: page
 title: News
 ---
 
-<html>
-   <body>
-      <div class="container">
-         <ul>
-            <li><img src="https://www.technicalkeeda.com/img/images/demo/1.jpg"></li>
-            <li><img src="https://www.technicalkeeda.com/img/images/demo/2.jpg"></li>
-            <li><img src="https://www.technicalkeeda.com/img/images/demo/3.jpg"></li>
-         </ul>
-      </div>
-   </body>
-</html>
-
 
 ### Hanglin's Defense and Graduation
 
 <div class="row">
   <div class="column">
-    <img src="https://pbs.twimg.com/media/D2JWxCqXgAExX5J.jpg:large" width="230px">
-  </div>
-  <div class="column">
-    <img src="https://pbs.twimg.com/media/D2rjUUPXcAEgPlC.jpg:large" width="230px">
+    <img src="https://pbs.twimg.com/media/D2JWxCqXgAExX5J.jpg:large" width="500px">
   </div>
 </div>
 
