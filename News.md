@@ -4,12 +4,13 @@ title: News
 ---
 
 ### Hanglin's Defense and Graduation
+
 <div class="row">
   <div class="column">
-    <img src="https://pbs.twimg.com/media/D2JWxCqXgAExX5J.jpg:large" width="250px">
+    <img src="https://pbs.twimg.com/media/D2JWxCqXgAExX5J.jpg:large" style="width:25%">
   </div>
   <div class="column">
-    <img src="https://pbs.twimg.com/media/D2rjUUPXcAEgPlC.jpg:large" width="250px>
+    <img src="https://pbs.twimg.com/media/D2rjUUPXcAEgPlC.jpg:large" style="width:25%">
   </div>
 </div>
 
