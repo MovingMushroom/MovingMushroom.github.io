@@ -15,13 +15,39 @@ mechanical properties, as a result of the burning process. This thesis provides 
 [Read Thesis][1]
 
 ### Burn Degree Classification with Ultrasound Images
+<center> 
+  <img src="/img/US image classification.png" height="200px">
+</center>
+
+Ultrasound imaging has been shown to have limitation in detecting burn severities, both in accuracy and in efficiency.This research ultilizes ultrasound imaging-based classification approach, in conjunction with the grey-level co-occurrence matrix (GLCM) texture features to classify burn degrees, providing an accuracy of **~99%**.  
+_Article Under Review_
 
 ### Burn Degree Classification with Raman Spectra
+<center> 
+  <img src="/img/Raman classification.png" height="200px">
+</center>
+
+In this study, we demonstrate the feasibility of using Raman spectroscopy alone to classify burn severities. Using kernel support vector machine (KSVM) with features extracted from the Raman spectra by principal component analysis (PCA), and partial least-square (PLS), an average accuracy of **~92%** is achieved, validated by independent accessment.  
+_Article Under Review_
 
 ### Mechanical Properties in Burnt Tissues
+<center> 
+  <img src="/img/mechanical characterization.png" height="200px">
+</center>
+
+Mechanical properties can be an helpful indicator about tissue abnormalities, _e.g._ burns. This study characterizes the changes of mechanical properties in burnt tissues with increasing burn dergees, with ultrasound elastography (inverse optimization) technique.  
+[Read Article][2]
 
 ### Collagen Conformational Changes  in Burnt Tissues
+<center> 
+  <img src="/img/Raman spectroscopy.jpg" height="200px">
+</center>
+
+Understanding the changes of collagen structure in burnt tissue is important for burn assessment. This study utilizes Raman spectroscopy to analyze the burn-induced collagen conformational changes in burnt skin tissue, revealing the the changes of protein and amino acids that may explain the softening of mechanical response.  
+_Article in Press_
+
 
 [1]: https://search.proquest.com/openview/304c0baeaddb08a9211eab7810d0eb2d/1?pq-origsite=gscholar&cbl=18750&diss=y
+[2]: https://www.sciencedirect.com/science/article/abs/pii/S0305417918302456
 
 
