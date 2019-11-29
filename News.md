@@ -5,12 +5,7 @@ title: News
 
 
 ### Hanglin's Defense and Graduation
-
-<div class="row">
-  <div class="column">
-    <img src="https://pbs.twimg.com/media/D2JWxCqXgAExX5J.jpg:large" width="500px">
-  </div>
-</div>
+<img src="https://pbs.twimg.com/media/D2JWxCqXgAExX5J.jpg:large" width="500px">
 
 Hanglin Ye successfully defensed and graduated with a PhD degree from RPI!
 
