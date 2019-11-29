@@ -24,15 +24,23 @@ _Article Under Review_
 
 ### Burn Degree Classification with Raman Spectra
 <center> 
-  <img src="/img/Raman classification.png" height="200px">
+  <img src="/img/Raman classification.png" height="300px">
 </center>
 
 In this study, we demonstrate the feasibility of using Raman spectroscopy alone to classify burn severities. Using kernel support vector machine (KSVM) with features extracted from the Raman spectra by principal component analysis (PCA), and partial least-square (PLS), an average accuracy of **~92%** is achieved, validated by independent accessment.  
 _Article Under Review_
 
+### Differentiating between Real Skin and Man-made Skin
+<center> 
+  <img src="/img/Synthetic.tif" height="300px">
+</center>
+
+How realistic are the man-made skins? Can they be proper substitues for real skins? This study demonstrates that there is a significant difference between real skin and man-made skins in terms of mechanical properties, using ANOVA and linear discriminat analysis (LDA).  
+_Article Under Review_
+
 ### Mechanical Properties in Burnt Tissues
 <center> 
-  <img src="/img/mechanical characterization.png" height="200px">
+  <img src="/img/mechanical characterization.png" height="300px">
 </center>
 
 Mechanical properties can be an helpful indicator about tissue abnormalities, _e.g._ burns. This study characterizes the changes of mechanical properties in burnt tissues with increasing burn dergees, with ultrasound elastography (inverse optimization) technique.  
