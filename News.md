@@ -7,10 +7,10 @@ title: News
 
 <div class="row">
   <div class="column">
-    <img src="https://pbs.twimg.com/media/D2JWxCqXgAExX5J.jpg:large" style="width:25%">
+    <img src="https://pbs.twimg.com/media/D2JWxCqXgAExX5J.jpg:large" width="230px">
   </div>
   <div class="column">
-    <img src="https://pbs.twimg.com/media/D2rjUUPXcAEgPlC.jpg:large" style="width:25%">
+    <img src="https://pbs.twimg.com/media/D2rjUUPXcAEgPlC.jpg:large" width="230px">
   </div>
 </div>
 
