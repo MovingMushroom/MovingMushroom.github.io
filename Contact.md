@@ -3,6 +3,7 @@ layout: page
 title: Contact Me
 ---
 
+<center>
 <div id="contact">
         <div id="contact-form">
             <form method="POST" action="https://formspree.io/hanglinye@gmail.com">
@@ -15,3 +16,4 @@ title: Contact Me
         <!-- End #contact-form -->
 </div>
 <!-- End #contact -->
+</center>
