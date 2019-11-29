@@ -23,9 +23,8 @@ Ultrasound imaging has been shown to have limitation in detecting burn severitie
 _Article Under Review_
 
 ### Burn Degree Classification with Raman Spectra
-<center> 
-  <img src="/img/Raman classification.png" height="300px">
-</center>
+<img src="/img/Raman classification.png" height="300px">
+
 
 In this study, we demonstrate the feasibility of using Raman spectroscopy alone to classify burn severities. Using kernel support vector machine (KSVM) with features extracted from the Raman spectra by principal component analysis (PCA), and partial least-square (PLS), an average accuracy of **~92%** is achieved, validated by independent accessment.  
 _Article Under Review_
