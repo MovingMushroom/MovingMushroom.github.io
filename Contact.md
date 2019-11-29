@@ -9,7 +9,7 @@ title: Contact Me
             <form method="POST" action="https://formspree.io/hanglinye@gmail.com">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
                 <br><input size="26" type="email" name="_replyto" placeholder="Your email" required>
-                <br><textarea size="16" name="message" placeholder="Your message" required></textarea>
+                <br><textarea style="width: 300px; height: 150px;" name="message" placeholder="Your message" required></textarea>
                 <br><button type="submit">Send</button>
             </form>
         </div>
