@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 ### [Burn-related Collagen Conformational Changes in _ex vivo_ Porcine Skin using Raman Spectroscopy][6]  
-**Ye, H.**, Rahul, Kruger, U., Wang, T., Shi, S. and De, S. 
+**Ye, H.**, Rahul, Kruger, U., Wang, T., Shi, S. and De, S.  
 _Scientific Reports_(2019)19138 
 Impact Factor (IF): 4.525
 
