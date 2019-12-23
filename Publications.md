@@ -2,6 +2,9 @@
 layout: page
 title: Publications
 ---
+### Burn-related Collagen Conformational Changes in _ex vivo_ Porcine Skin using Raman Spectroscopy[6]  
+**Ye, H.**, Rahul, Kruger, U., Wang, T., Shi, S. and De, S. _Scientific Reports_  
+Impact Factor (IF): 4.525
 
 ### [Ultrasound elastography reliably identifies altered mechanical properties of burned soft tissues][1]  
 **Ye, H.**, Rahul, Dargar, S., Kruger, U. and De, S.  
@@ -12,10 +15,6 @@ Impact Factor (IF): 2.247
 **Ye, H.** and De, S. 
 _Burns_(2017) 43(5)  
 Impact Factor (IF): 2.247
-
-### Burn-related Collagen Conformational Changes in ex vivo Porcine Skin using Raman Spectroscopy  
-**Ye, H.**, Rahul, Kruger, U., Wang, T., Shi, S. and De, S. _Scientific Reports (Accepted)_  
-Impact Factor (IF): 4.525
 
 ### [Ultrasound imaging-based identification of thermal damage in burnt tissue][3]  
 **Ye, H.**, Rahul, Dargar, S., Kruger, U. and De, S.   
@@ -32,7 +31,7 @@ Gallagher, S., **Ye, H.**, Makled, B., Parsey, C. Rahul, Norfleet, J., and De, S
 _Annual Conference and Exposition on Experimental and Applied Mechanics_ (2019) Reno, Nevada, USA  
 Conference Proceedings
 
-### Classification of Burn Severities with Raman Spectroscopy on ex vivo Porcine Skin  
+### Classification of Burn Severities with Raman Spectroscopy on _ex vivo_ Porcine Skin  
 **Ye, H.**, Rahul, Kruger, U., Wang, T., Shi, S. and De, S.  
 _Under Review_
 
@@ -46,3 +45,4 @@ _Under Review_
 [3]: http://14.usnccm.org/MS106
 [4]: https://mhsrs.amedd.army.mil/sites/MHSRS2017/SitePages/ResearchTopics2017.aspx
 [5]: https://sem.org/files/events/19s/19s%20Advance%20Program.pdf
+[6]: https://www.nature.com/articles/s41598-019-55012-1
